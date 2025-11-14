@@ -1,12 +1,166 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\GitHub\\Lab\\Lab2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:34:51.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab2\\appsettings.json",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
+              "RelativeToolTip": "Lab2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T04:31:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:37:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Lab2\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:12:34.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelResult.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\LevelResult.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\LevelResult.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\LevelResult.cs",
+              "RelativeToolTip": "Lab2\\Models\\LevelResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:52:14.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\Question.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\Question.cs",
+              "RelativeToolTip": "Lab2\\Models\\Question.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:01:42.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\Region.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\Region.cs",
+              "RelativeToolTip": "Lab2\\Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:00:23.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\GameLevel.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\GameLevel.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\GameLevel.cs",
+              "RelativeToolTip": "Lab2\\Models\\GameLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:58:04.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab2.csproj",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj",
+              "RelativeDocumentMoniker": "Lab2\\Lab2.csproj",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj",
+              "RelativeToolTip": "Lab2\\Lab2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T04:33:47.645Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

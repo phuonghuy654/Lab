@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Lab2.Controllers.APIGameController",
+    "Method": "Get",
+    "RelativePath": "api/APIGame",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
