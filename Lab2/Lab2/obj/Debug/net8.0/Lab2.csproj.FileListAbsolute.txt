@@ -353,3 +353,8 @@ C:\GitHub\Lab\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
 C:\GitHub\Lab\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
 C:\GitHub\Lab\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
 C:\GitHub\Lab\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll
+C:\GitHub\Lab\Lab2\Lab2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GitHub\Lab\Lab2\Lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub\Lab\Lab2\Lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub\Lab\Lab2\Lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub\Lab\Lab2\Lab2\obj\Debug\net8.0\Lab2.MvcApplicationPartsAssemblyInfo.cs
