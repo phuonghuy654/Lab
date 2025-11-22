@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "Lab2.Controllers.APIGameController",
+    "Method": "ChangeUserPassword",
+    "RelativePath": "api/APIGame/ChangeUserPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePasswordDTO",
+        "Type": "Lab2.DTO.ChangePasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab2.Controllers.APIGameController",
     "Method": "GetAllGameLevel",
     "RelativePath": "api/APIGame/GetAllGameLevel",
     "HttpMethod": "GET",
@@ -144,8 +160,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "fromFile",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "Name": "formFiles",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
         "IsRequired": false
       }
     ],

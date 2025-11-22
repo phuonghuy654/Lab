@@ -257,16 +257,50 @@
               "schema": {
                 "type": "object",
                 "properties": {
-                  "fromFile": {
-                    "type": "string",
-                    "format": "binary"
+                  "formFiles": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
                   }
                 }
               },
               "encoding": {
-                "fromFile": {
+                "formFiles": {
                   "style": "form"
                 }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/APIGame/ChangeUserPassword": {
+      "put": {
+        "tags": [
+          "APIGame"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangePasswordDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangePasswordDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangePasswordDTO"
               }
             }
           }
@@ -281,6 +315,24 @@
   },
   "components": {
     "schemas": {
+      "ChangePasswordDTO": {
+        "type": "object",
+        "properties": {
+          "userID": {
+            "type": "string",
+            "nullable": true
+          },
+          "oldPassword": {
+            "type": "string",
+            "nullable": true
+          },
+          "newPassword": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "LevelResultDTO": {
         "required": [
           "levelId",
