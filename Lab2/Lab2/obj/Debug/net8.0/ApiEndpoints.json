@@ -121,6 +121,22 @@
   },
   {
     "ContainingType": "Lab2.Controllers.APIGameController",
+    "Method": "GetAllResultByUser",
+    "RelativePath": "api/APIGame/GetAllResultByUser/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lab2.Controllers.APIGameController",
     "Method": "GetUserInfomation",
     "RelativePath": "api/APIGame/GetUserInfomation/{userId}",
     "HttpMethod": "GET",

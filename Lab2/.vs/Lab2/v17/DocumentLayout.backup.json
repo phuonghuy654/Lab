@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\GitHub\\Lab\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\GitHub\\Lab\\Lab2\\Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|solutionrelative:lab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DBD498-A824-41E2-8970-5142C285E863}|Lab2\\Lab2.csproj|c:\\github\\lab\\lab2\\lab2\\dto\\userinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,19 +62,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251201120528_AddCustomColumnsToApplicationUser.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs",
-              "RelativeDocumentMoniker": "Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs",
-              "RelativeToolTip": "Lab2\\Migrations\\20251201120528_AddCustomColumnsToApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CheckOTPDTO.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\CheckOTPDTO.cs",
+              "RelativeDocumentMoniker": "Lab2\\DTO\\CheckOTPDTO.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\CheckOTPDTO.cs",
+              "RelativeToolTip": "Lab2\\DTO\\CheckOTPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T12:05:29.016Z",
+              "WhenOpened": "2025-12-01T11:44:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Lab2\\Service\\EmailService.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Service\\EmailService.cs",
+              "RelativeToolTip": "Lab2\\Service\\EmailService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T13:08:18.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:37:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Lab2\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Lab2\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:12:34.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIGameController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Controllers\\APIGameController.cs",
+              "RelativeDocumentMoniker": "Lab2\\Controllers\\APIGameController.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Controllers\\APIGameController.cs*",
+              "RelativeToolTip": "Lab2\\Controllers\\APIGameController.cs*",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswMAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:56:03.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab2\\appsettings.json",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
+              "RelativeToolTip": "Lab2\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T04:31:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:34:51.827Z",
               "EditorCaption": ""
             },
             {
@@ -91,111 +165,25 @@
               "RelativeToolTip": "Lab2\\DTO\\ResetPasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:46:23.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CheckOTPDTO.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\CheckOTPDTO.cs",
-              "RelativeDocumentMoniker": "Lab2\\DTO\\CheckOTPDTO.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\CheckOTPDTO.cs",
-              "RelativeToolTip": "Lab2\\DTO\\CheckOTPDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T11:44:20.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Service\\EmailService.cs",
-              "RelativeDocumentMoniker": "Lab2\\Service\\EmailService.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Service\\EmailService.cs",
-              "RelativeToolTip": "Lab2\\Service\\EmailService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T13:08:18.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab2\\Program.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Program.cs",
-              "RelativeToolTip": "Lab2\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T04:37:22.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Lab2\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Lab2\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:12:34.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "APIGameController.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Controllers\\APIGameController.cs",
-              "RelativeDocumentMoniker": "Lab2\\Controllers\\APIGameController.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Controllers\\APIGameController.cs",
-              "RelativeToolTip": "Lab2\\Controllers\\APIGameController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAASwCgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T11:56:03.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab2\\appsettings.json",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\appsettings.json",
-              "RelativeToolTip": "Lab2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T04:31:35.07Z",
+              "WhenOpened": "2025-12-01T11:46:23.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Lab2\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Lab2\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAASwA8AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T04:34:51.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "UserInformationDTO.cs",
               "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\UserInformationDTO.cs",
               "RelativeDocumentMoniker": "Lab2\\DTO\\UserInformationDTO.cs",
               "ToolTip": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\UserInformationDTO.cs",
               "RelativeToolTip": "Lab2\\DTO\\UserInformationDTO.cs",
-              "ViewState": "AgIAAAIAAABQSyO66ocmwAcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAABQSyO66ociwAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T12:05:31.559Z"
+              "WhenOpened": "2025-11-21T12:05:31.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "EmailRequest.cs",
               "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\EmailRequest.cs",
               "RelativeDocumentMoniker": "Lab2\\Models\\EmailRequest.cs",
@@ -203,11 +191,12 @@
               "RelativeToolTip": "Lab2\\Models\\EmailRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T13:06:08.595Z"
+              "WhenOpened": "2025-11-21T13:06:08.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "Lab2\\DTO\\ChangePasswordDTO.cs",
@@ -215,11 +204,12 @@
               "RelativeToolTip": "Lab2\\DTO\\ChangePasswordDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T11:49:38.345Z"
+              "WhenOpened": "2025-11-21T11:49:38.345Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Models\\EmailSettings.cs",
               "RelativeDocumentMoniker": "Lab2\\Models\\EmailSettings.cs",
@@ -227,11 +217,12 @@
               "RelativeToolTip": "Lab2\\Models\\EmailSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T13:04:17.058Z"
+              "WhenOpened": "2025-11-21T13:04:17.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "IFromData.cs",
               "DocumentMoniker": "C:\\GitHub\\Lab\\Lab2\\Lab2\\DTO\\IFromData.cs",
               "RelativeDocumentMoniker": "Lab2\\DTO\\IFromData.cs",
@@ -239,7 +230,8 @@
               "RelativeToolTip": "Lab2\\DTO\\IFromData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T12:32:21.943Z"
+              "WhenOpened": "2025-11-19T12:32:21.943Z",
+              "EditorCaption": ""
             }
           ]
         }

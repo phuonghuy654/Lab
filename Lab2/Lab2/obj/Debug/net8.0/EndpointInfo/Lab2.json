@@ -467,6 +467,29 @@
           }
         }
       }
+    },
+    "/api/APIGame/GetAllResultByUser/{userId}": {
+      "get": {
+        "tags": [
+          "APIGame"
+        ],
+        "parameters": [
+          {
+            "name": "userId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -596,11 +619,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "JWT Authorization header using the Bearer scheme. \\r\\n\\r\\n\r\n                    Enter 'Bearer' [space] and then your token in the text input below.\r\n                    \\r\\n\\r\\nExample: 'Bearer 12345abcdef'",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
   },
-  "tags": [
+  "security": [
     {
-      "name": "APIGame"
+      "Bearer": [ ]
     }
   ]
 }
