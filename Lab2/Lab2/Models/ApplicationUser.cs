@@ -15,7 +15,7 @@ namespace Lab2.Models
         public string? Avatar { get; set; }
         public bool IsDeleted { get; set; } = false;
         [JsonIgnore]
-        public string OTP {  get; set; } = DateTimeOffset.Now.ToUnixTimeSeconds().ToString() + "none";
+        public string? OTP {  get; set; } = DateTimeOffset.Now.ToUnixTimeSeconds().ToString() + "none";
 
     }
 }

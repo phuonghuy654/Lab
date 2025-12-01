@@ -38,8 +38,8 @@ namespace Lab2.Controllers
         private readonly ApplicationDbContext _db;
         protected ReponseApi _response;
         private readonly UserManager<ApplicationUser> _userManager;
-        private readonly EmailService _emailService;
-        public APIGameController(ApplicationDbContext db, UserManager<ApplicationUser> userManager, EmailService emailService)
+        private readonly IEmailService _emailService;
+        public APIGameController(ApplicationDbContext db, UserManager<ApplicationUser> userManager, IEmailService emailService)
         {
             _db = db;
             _response = new();
