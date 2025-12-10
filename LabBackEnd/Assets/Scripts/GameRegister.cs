@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.Playables;
 using static Register;
-
+using UnityEngine.Events;
 public class GameRegister : MonoBehaviour
 {
     public TMP_InputField emailInput;
@@ -16,7 +16,7 @@ public class GameRegister : MonoBehaviour
     public TMP_InputField nameInput;
     public GameObject notification;
     public static int selectedRegionId;
-
+    public UnityEvent OnClose;
     IEnumerator Register()
     {
         selectedRegionId = GameRegion.selectedRegionId;
@@ -80,6 +80,12 @@ public class GameRegister : MonoBehaviour
     public void OnButtonClickRegister()
     {
         StartCoroutine(Register());
+    }
+
+    public void OnClickClose()
+    {
+        OnClose?.Invoke();
+        gameObject.SetActive(false);
     }
 }
 
