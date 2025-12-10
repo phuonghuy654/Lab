@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj": {}
+    "D:\\BackEnd\\Lab\\Lab2\\Lab2\\Lab2.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj": {
+    "D:\\BackEnd\\Lab\\Lab2\\Lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "D:\\BackEnd\\Lab\\Lab2\\Lab2\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\GitHub\\Lab\\Lab2\\Lab2\\Lab2.csproj",
-        "packagesPath": "C:\\Users\\Huy\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Lab\\Lab2\\Lab2\\obj\\",
+        "projectPath": "D:\\BackEnd\\Lab\\Lab2\\Lab2\\Lab2.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BackEnd\\Lab\\Lab2\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Huy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

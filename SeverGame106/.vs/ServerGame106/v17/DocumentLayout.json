@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackEnd\\Lab\\SeverGame106\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\migrations\\20251201043847_addisdeletedandotptoapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\migrations\\20251201043847_addisdeletedandotptoapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/HOANGTD/ServerGame106/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\userinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\userinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\dto\\checkotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\dto\\checkotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|d:\\backend\\lab\\severgame106\\severgame106\\migrations\\20251201121955_updatedbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B82AC250-3468-44B7-95C2-7FA749F3771E}|SeverGame106\\ServerGame106.csproj|solutionrelative:severgame106\\migrations\\20251201121955_updatedbb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251201121955_updatedbb.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Migrations\\20251201121955_updatedbb.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Migrations\\20251201121955_updatedbb.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Migrations\\20251201121955_updatedbb.cs",
+              "RelativeToolTip": "SeverGame106\\Migrations\\20251201121955_updatedbb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:19:55.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SeverGame106\\appsettings.Development.json",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\appsettings.Development.json",
+              "RelativeToolTip": "SeverGame106\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T12:17:06.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Service\\EmailService.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Service\\EmailService.cs",
+              "RelativeToolTip": "SeverGame106\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:09:08.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/HOANGTD/ServerGame106/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/HOANGTD/ServerGame106/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-01T11:55:51.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserInformationDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\UserInformationDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\UserInformationDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\UserInformationDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\UserInformationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:11:17.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LevelResultDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\LevelResultDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\LevelResultDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\LevelResultDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\LevelResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:11:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CheckOTPDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\CheckOTPDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\CheckOTPDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\CheckOTPDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\CheckOTPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:06:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251201043847_AddIsDeletedAndOTPToApplicationUser.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Migrations\\20251201043847_AddIsDeletedAndOTPToApplicationUser.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Migrations\\20251201043847_AddIsDeletedAndOTPToApplicationUser.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Migrations\\20251201043847_AddIsDeletedAndOTPToApplicationUser.cs",
+              "RelativeToolTip": "SeverGame106\\Migrations\\20251201043847_AddIsDeletedAndOTPToApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T04:38:47.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SeverGame106\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:10:58.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\ResetPasswordDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:30:49.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\ChangePasswordDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T11:50:48.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\LoginRequest.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:40:16.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "SeverGame106\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T05:07:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SeverGame106\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:56:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Models\\Question.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Question.cs",
+              "RelativeToolTip": "SeverGame106\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:46:31.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Models\\Region.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Region.cs",
+              "RelativeToolTip": "SeverGame106\\Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:43:46.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\GameLevel.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Models\\GameLevel.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\GameLevel.cs",
+              "RelativeToolTip": "SeverGame106\\Models\\GameLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:40:22.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\appsettings.json",
+              "RelativeDocumentMoniker": "SeverGame106\\appsettings.json",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\appsettings.json",
+              "RelativeToolTip": "SeverGame106\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T03:02:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Program.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Program.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Program.cs",
+              "RelativeToolTip": "SeverGame106\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T03:02:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Game106Model.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Game106Model.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Models\\Game106Model.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Models\\Game106Model.cs",
+              "RelativeToolTip": "SeverGame106\\Models\\Game106Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:47:11.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIGameController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Controllers\\APIGameController.cs",
+              "RelativeDocumentMoniker": "SeverGame106\\Controllers\\APIGameController.cs",
+              "ToolTip": "D:\\BackEnd\\Lab\\SeverGame106\\SeverGame106\\Controllers\\APIGameController.cs",
+              "RelativeToolTip": "SeverGame106\\Controllers\\APIGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T02:39:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
